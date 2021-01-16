@@ -30,7 +30,6 @@ jspm_packages
 
 # build
 build
-docs
 dist
 benchmark-out
 .rpt2*

@@ -4,10 +4,9 @@
     "moduleResolution": "node",
     "lib": ["es2020"],
     "target": "es2020",
-    "module": "esnext",
+    "module": "commonjs",
     "strict": true,
     "noImplicitAny": false,
-
     "noUnusedLocals": false,
     "declaration": true,
     "sourceMap": true,
